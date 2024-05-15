@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "University", "University\University.csproj", "{1B60985C-0B2F-450E-83A7-0120C5A536FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityTest", "UniversityTest\UniversityTest.csproj", "{BAD5F2FF-AD3A-48B9-B661-D638B8A03138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B60985C-0B2F-450E-83A7-0120C5A536FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B60985C-0B2F-450E-83A7-0120C5A536FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B60985C-0B2F-450E-83A7-0120C5A536FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B60985C-0B2F-450E-83A7-0120C5A536FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD5F2FF-AD3A-48B9-B661-D638B8A03138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD5F2FF-AD3A-48B9-B661-D638B8A03138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD5F2FF-AD3A-48B9-B661-D638B8A03138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD5F2FF-AD3A-48B9-B661-D638B8A03138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
